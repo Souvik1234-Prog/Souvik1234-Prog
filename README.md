@@ -110,8 +110,8 @@ I'm a Computer Science Engineer specializing in Artificial Intelligence with a s
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Souvik1234-Prog
-* LinkedIn: Add Your LinkedIn Profile Here
-* Email: Add Your Email Here
+* LinkedIn: https://www.linkedin.com/in/souvik-d-6807ba238/
+* Email: souvikdig@gmail.com
 
 ---
 
